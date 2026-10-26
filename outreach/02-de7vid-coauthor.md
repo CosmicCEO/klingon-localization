@@ -7,7 +7,7 @@
 
 ---
 
-nuqneH! I'm leading a project to add a **Klingon (`tlh`) interface to the Crafting Apps**, a new open-source suite (MIT OR Apache-2.0): WordCraft (word processor), PdfCraft, PhotoCraft, VectorCraft, FilmCraft, CADCraft, with spreadsheet and slides apps on the way. The upstream request is here: <LINK TO CRAFT-I18N ISSUE>.
+nuqneH! I'm reaching out to suggest a collaboration; something fun. I'm proposing a project to add a **Klingon (`tlh`) interface to the very hot set of Apps**, a new open-source suite (MIT OR Apache-2.0): WordCraft (word processor), PdfCraft, PhotoCraft, VectorCraft, FilmCraft, CADCraft, with spreadsheet and slides apps on the way. The upstream request is here: <LINK TO CRAFT-I18N ISSUE>.
 
 All the apps share one set of translations, so Klingon done once shows up across the suite. We start with the shared strings and WordCraft (about 4,400 strings), then go app by app.
 
