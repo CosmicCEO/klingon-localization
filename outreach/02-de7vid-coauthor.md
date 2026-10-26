@@ -7,7 +7,7 @@
 
 ---
 
-nuqneH! I'm reaching out to suggest a collaboration; something fun. I'm proposing a project to add a **Klingon (`tlh`) interface to the very hot set of Apps**, a new open-source suite (MIT OR Apache-2.0): WordCraft (word processor), PdfCraft, PhotoCraft, VectorCraft, FilmCraft, CADCraft, with spreadsheet and slides apps on the way. The upstream request is here: https://github.com/storytold/craft-i18n/issues/43.
+nuqneH! I'm reaching out to suggest a collaboration; something fun. I'm proposing a project to add a **Klingon (`tlh`) interface to the very new and hot set of AI vode coded apps by storytold. Apps**, a new open-source suite (MIT OR Apache-2.0): WordCraft (word processor), PdfCraft, PhotoCraft, VectorCraft, FilmCraft, CADCraft, with spreadsheet and slides apps on the way. The upstream request is here: https://github.com/storytold/craft-i18n/issues/43.
 
 All the apps share one set of translations, so Klingon done once shows up across the suite. We start with the shared strings and WordCraft (about 4,400 strings), then go app by app.
 
