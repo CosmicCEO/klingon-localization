@@ -104,7 +104,7 @@ Pitch for recruiting: this is a Klingon interface for a whole office and creativ
 ## 6. Phases
 
 ### Phase 0 — Set up and reach out (week 1–2)
-- [ ] Create labels (`tlh`, one per app) and a pinned "Start here" issue in the hub repo
+- [x] Create labels (`tlh`, one per app) and a pinned "Start here" issue in the hub repo
 - [x] Post the craft-i18n new-language issue for `tlh`, covering all apps (`outreach/01`)
 - [x] Invite De7vID as co-author of the suite glossary (`outreach/02`), linking the craft-i18n issue
 - [ ] Raise Klingon sorting, plurals and capital letters on craft-libs#198 (`outreach/03`)
